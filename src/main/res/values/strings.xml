@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Logibn</string>
+    <string name="enteremailplaceholder">email</string>
+    <string name="strLogin">Login</string>
+    <string name="strcancel">cancel</string>
+
+    <string name="stremail">email</string>
+    <string name="strpassword">password</string>
+    <string name="strinsert">insert</string>
+
+
+</resources>
